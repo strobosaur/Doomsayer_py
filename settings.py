@@ -1,0 +1,7 @@
+import pygame
+
+# GLOBALS
+SCREEN_WIDTH = 480
+SCREEN_HEIGHT = 270
+FPS = 60
+TILESIZE = 16
