@@ -1,5 +1,6 @@
 import pygame, sys
 from settings import *
+from debug import debug
 
 # GAME CLASS
 class Game:
